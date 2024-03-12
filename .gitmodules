@@ -1,0 +1,3 @@
+[submodule "PremierLeaguePredictor"]
+	path = PremierLeaguePredictor
+	url = https://github.com/lgayer/PremierLeaguePredictor
